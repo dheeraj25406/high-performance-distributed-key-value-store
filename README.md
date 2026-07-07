@@ -1,4 +1,4 @@
-# Redis Clone
+# High Performance Distributed Key Value Store
 
 A lightweight Redis-compatible in-memory key-value store implemented in **Go**. The project communicates using the **RESP (Redis Serialization Protocol)** over raw TCP sockets and supports a subset of core Redis commands, along with optional persistence through RDB files.
 
